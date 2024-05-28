@@ -1,0 +1,276 @@
+\begin{thebibliography}{10}
+
+\bibitem{Karagiorgi:2021ngt}
+Georgia Karagiorgi, Gregor Kasieczka, Scott Kravitz, Benjamin Nachman, and David Shih.
+\newblock {Machine Learning in the Search for New Fundamental Physics}.
+\newblock 12 2021.
+\newblock \href {https://arxiv.org/abs/2112.03769} {\path{arXiv:2112.03769}}.
+
+\bibitem{Kasieczka:2021xcg}
+Gregor Kasieczka et~al.
+\newblock {The LHC Olympics 2020 a community challenge for anomaly detection in high energy physics}.
+\newblock {\em Rept. Prog. Phys.}, 84(12):124201, 2021.
+\newblock \href {https://arxiv.org/abs/2101.08320} {\path{arXiv:2101.08320}}, \href {https://doi.org/10.1088/1361-6633/ac36b9} {\path{doi:10.1088/1361-6633/ac36b9}}.
+
+\bibitem{Aarrestad:2021oeb}
+Thea Aarrestad et~al.
+\newblock {The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider}.
+\newblock {\em SciPost Phys.}, 12(1):043, 2022.
+\newblock \href {https://arxiv.org/abs/2105.14027} {\path{arXiv:2105.14027}}, \href {https://doi.org/10.21468/SciPostPhys.12.1.043} {\path{doi:10.21468/SciPostPhys.12.1.043}}.
+
+\bibitem{Collins:2018epr}
+Jack~H. Collins, Kiel Howe, and Benjamin Nachman.
+\newblock {Anomaly Detection for Resonant New Physics with Machine Learning}.
+\newblock {\em Phys. Rev. Lett.}, 121(24):241803, 2018.
+\newblock \href {https://arxiv.org/abs/1805.02664} {\path{arXiv:1805.02664}}, \href {https://doi.org/10.1103/PhysRevLett.121.241803} {\path{doi:10.1103/PhysRevLett.121.241803}}.
+
+\bibitem{Collins:2019jip}
+Jack~H. Collins, Kiel Howe, and Benjamin Nachman.
+\newblock {Extending the search for new resonances with machine learning}.
+\newblock {\em Phys. Rev. D}, 99(1):014038, 2019.
+\newblock \href {https://arxiv.org/abs/1902.02634} {\path{arXiv:1902.02634}}, \href {https://doi.org/10.1103/PhysRevD.99.014038} {\path{doi:10.1103/PhysRevD.99.014038}}.
+
+\bibitem{Nachman:2020lpy}
+Benjamin Nachman and David Shih.
+\newblock {Anomaly Detection with Density Estimation}.
+\newblock {\em Phys. Rev. D}, 101:075042, 2020.
+\newblock \href {https://arxiv.org/abs/2001.04990} {\path{arXiv:2001.04990}}, \href {https://doi.org/10.1103/PhysRevD.101.075042} {\path{doi:10.1103/PhysRevD.101.075042}}.
+
+\bibitem{Andreassen:2020nkr}
+Anders Andreassen, Benjamin Nachman, and David Shih.
+\newblock {Simulation Assisted Likelihood-free Anomaly Detection}.
+\newblock {\em Phys. Rev. D}, 101(9):095004, 2020.
+\newblock \href {https://arxiv.org/abs/2001.05001} {\path{arXiv:2001.05001}}, \href {https://doi.org/10.1103/PhysRevD.101.095004} {\path{doi:10.1103/PhysRevD.101.095004}}.
+
+\bibitem{Amram:2020ykb}
+Oz~Amram and Cristina~Mantilla Suarez.
+\newblock {Tag N\textquoteright{} Train: a technique to train improved classifiers on unlabeled data}.
+\newblock {\em JHEP}, 01:153, 2021.
+\newblock \href {https://arxiv.org/abs/2002.12376} {\path{arXiv:2002.12376}}, \href {https://doi.org/10.1007/JHEP01(2021)153} {\path{doi:10.1007/JHEP01(2021)153}}.
+
+\bibitem{ATLAS:2020iwa}
+Georges Aad et~al.
+\newblock {Dijet resonance search with weak supervision using $\sqrt{s}=13$ TeV $pp$ collisions in the ATLAS detector}.
+\newblock {\em Phys. Rev. Lett.}, 125(13):131801, 2020.
+\newblock \href {https://arxiv.org/abs/2005.02983} {\path{arXiv:2005.02983}}, \href {https://doi.org/10.1103/PhysRevLett.125.131801} {\path{doi:10.1103/PhysRevLett.125.131801}}.
+
+\bibitem{Benkendorfer:2020gek}
+Kees Benkendorfer, Luc~Le Pottier, and Benjamin Nachman.
+\newblock {Simulation-assisted decorrelation for resonant anomaly detection}.
+\newblock {\em Phys. Rev. D}, 104(3):035003, 2021.
+\newblock \href {https://arxiv.org/abs/2009.02205} {\path{arXiv:2009.02205}}, \href {https://doi.org/10.1103/PhysRevD.104.035003} {\path{doi:10.1103/PhysRevD.104.035003}}.
+
+\bibitem{Stein:2020rou}
+George Stein, Uros Seljak, and Biwei Dai.
+\newblock {Unsupervised in-distribution anomaly detection of new physics through conditional density estimation}.
+\newblock In {\em {34th Conference on Neural Information Processing Systems}}, 12 2020.
+\newblock \href {https://arxiv.org/abs/2012.11638} {\path{arXiv:2012.11638}}.
+
+\bibitem{Park:2020pak}
+Sang~Eon Park, Dylan Rankin, Silviu-Marian Udrescu, Mikaeel Yunus, and Philip Harris.
+\newblock {Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge}.
+\newblock {\em JHEP}, 21:030, 2020.
+\newblock \href {https://arxiv.org/abs/2011.03550} {\path{arXiv:2011.03550}}, \href {https://doi.org/10.1007/JHEP06(2021)030} {\path{doi:10.1007/JHEP06(2021)030}}.
+
+\bibitem{Collins:2021nxn}
+Jack~H. Collins, Pablo Mart\'\i{}n-Ramiro, Benjamin Nachman, and David Shih.
+\newblock {Comparing weak- and unsupervised methods for resonant anomaly detection}.
+\newblock {\em Eur. Phys. J. C}, 81(7):617, 2021.
+\newblock \href {https://arxiv.org/abs/2104.02092} {\path{arXiv:2104.02092}}, \href {https://doi.org/10.1140/epjc/s10052-021-09389-x} {\path{doi:10.1140/epjc/s10052-021-09389-x}}.
+
+\bibitem{Hallin:2021wme}
+Anna Hallin, Joshua Isaacson, Gregor Kasieczka, Claudius Krause, Benjamin Nachman, Tobias Quadfasel, Matthias Schlaffer, David Shih, and Manuel Sommerhalder.
+\newblock {Classifying anomalies through outer density estimation}.
+\newblock {\em Phys. Rev. D}, 106(5):055006, 2022.
+\newblock \href {https://arxiv.org/abs/2109.00546} {\path{arXiv:2109.00546}}, \href {https://doi.org/10.1103/PhysRevD.106.055006} {\path{doi:10.1103/PhysRevD.106.055006}}.
+
+\bibitem{Kamenik:2022qxs}
+Jernej~F. Kamenik and Manuel Szewc.
+\newblock {Null hypothesis test for anomaly detection}.
+\newblock {\em Phys. Lett. B}, 840:137836, 2023.
+\newblock \href {https://arxiv.org/abs/2210.02226} {\path{arXiv:2210.02226}}, \href {https://doi.org/10.1016/j.physletb.2023.137836} {\path{doi:10.1016/j.physletb.2023.137836}}.
+
+\bibitem{Raine:2022hht}
+John~Andrew Raine, Samuel Klein, Debajyoti Sengupta, and Tobias Golling.
+\newblock {CURTAINs for your sliding window: Constructing unobserved regions by transforming adjacent intervals}.
+\newblock {\em Front. Big Data}, 6:899345, 2023.
+\newblock \href {https://arxiv.org/abs/2203.09470} {\path{arXiv:2203.09470}}, \href {https://doi.org/10.3389/fdata.2023.899345} {\path{doi:10.3389/fdata.2023.899345}}.
+
+\bibitem{Kasieczka:2022naq}
+Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.
+\newblock {Anomaly detection under coordinate transformations}.
+\newblock {\em Phys. Rev. D}, 107(1):015009, 2023.
+\newblock \href {https://arxiv.org/abs/2209.06225} {\path{arXiv:2209.06225}}, \href {https://doi.org/10.1103/PhysRevD.107.015009} {\path{doi:10.1103/PhysRevD.107.015009}}.
+
+\bibitem{Hallin:2022eoq}
+Anna Hallin, Gregor Kasieczka, Tobias Quadfasel, David Shih, and Manuel Sommerhalder.
+\newblock {Resonant anomaly detection without background sculpting}.
+\newblock {\em Phys. Rev. D}, 107(11):114012, 2023.
+\newblock \href {https://arxiv.org/abs/2210.14924} {\path{arXiv:2210.14924}}, \href {https://doi.org/10.1103/PhysRevD.107.114012} {\path{doi:10.1103/PhysRevD.107.114012}}.
+
+\bibitem{Chen:2022suv}
+Mayee~F. Chen, Benjamin Nachman, and Frederic Sala.
+\newblock {Resonant Anomaly Detection with Multiple Reference Datasets}.
+\newblock 12 2022.
+\newblock \href {https://arxiv.org/abs/2212.10579} {\path{arXiv:2212.10579}}.
+
+\bibitem{Golling:2022nkl}
+Tobias Golling, Samuel Klein, Radha Mastandrea, and Benjamin Nachman.
+\newblock {Flow-enhanced transportation for anomaly detection}.
+\newblock {\em Phys. Rev. D}, 107(9):096025, 2023.
+\newblock \href {https://arxiv.org/abs/2212.11285} {\path{arXiv:2212.11285}}, \href {https://doi.org/10.1103/PhysRevD.107.096025} {\path{doi:10.1103/PhysRevD.107.096025}}.
+
+\bibitem{Golling:2023yjq}
+Tobias Golling, Gregor Kasieczka, Claudius Krause, Radha Mastandrea, Benjamin Nachman, John~Andrew Raine, Debajyoti Sengupta, David Shih, and Manuel Sommerhalder.
+\newblock {The Interplay of Machine Learning--based Resonant Anomaly Detection Methods}.
+\newblock 7 2023.
+\newblock \href {https://arxiv.org/abs/2307.11157} {\path{arXiv:2307.11157}}.
+
+\bibitem{sengupta2023curtains}
+Debajyoti Sengupta, Samuel Klein, John~Andrew Raine, and Tobias Golling.
+\newblock {CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation}.
+\newblock 5 2023.
+\newblock \href {https://arxiv.org/abs/2305.04646} {\path{arXiv:2305.04646}}.
+
+\bibitem{CMS:2020fia}
+Albert~M Sirunyan et~al.
+\newblock {Search for supersymmetry in proton-proton collisions at $\sqrt{s} =$ 13 TeV in events with high-momentum Z bosons and missing transverse momentum}.
+\newblock {\em JHEP}, 09:149, 2020.
+\newblock URL: \url{https://doi.org/10.1007%2Fjhep09%282020%29149}, \href {https://arxiv.org/abs/2008.04422} {\path{arXiv:2008.04422}}, \href {https://doi.org/10.1007/JHEP09(2020)149} {\path{doi:10.1007/JHEP09(2020)149}}.
+
+\bibitem{Finke:2022lsu}
+Thorben Finke, Michael Kr\"amer, Maximilian Lipp, and Alexander M\"uck.
+\newblock {Boosting mono-jet searches with model-agnostic machine learning}.
+\newblock {\em JHEP}, 08:015, 2022.
+\newblock \href {https://arxiv.org/abs/2204.11889} {\path{arXiv:2204.11889}}, \href {https://doi.org/10.1007/JHEP08(2022)015} {\path{doi:10.1007/JHEP08(2022)015}}.
+
+\bibitem{Mullin:2019mmh}
+Anna Mullin, Stuart Nicholls, Holly Pacey, Michael Parker, Martin White, and Sarah Williams.
+\newblock {Does SUSY have friends? A new approach for LHC event analysis}.
+\newblock {\em JHEP}, 02:160, 2021.
+\newblock \href {https://arxiv.org/abs/1912.10625} {\path{arXiv:1912.10625}}, \href {https://doi.org/10.1007/JHEP02(2021)160} {\path{doi:10.1007/JHEP02(2021)160}}.
+
+\bibitem{CMS-PAS-SUS-21-006}
+{Search for supersymmetry in final states with disappearing tracks in proton-proton collisions at $13~\mathrm{TeV}$}.
+\newblock Technical report, CERN, Geneva, 2023.
+\newblock URL: \url{http://cds.cern.ch/record/2859611}.
+
+\bibitem{ATLAS:2022ihe}
+Georges Aad et~al.
+\newblock {Search for supersymmetry in final states with missing transverse momentum and three or more b-jets in 139 fb$^{-1}$ of proton\textendash{}proton collisions at $\sqrt{s} = 13$~TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J. C}, 83(7):561, 2023.
+\newblock \href {https://arxiv.org/abs/2211.08028} {\path{arXiv:2211.08028}}, \href {https://doi.org/10.1140/epjc/s10052-023-11543-6} {\path{doi:10.1140/epjc/s10052-023-11543-6}}.
+
+\bibitem{CMS:2023ktc}
+Armen Tumasyan et~al.
+\newblock {Search for top squarks in the four-body decay mode with single lepton final states in proton-proton collisions at $ \sqrt{s} $ = 13 TeV}.
+\newblock {\em JHEP}, 06:060, 2023.
+\newblock \href {https://arxiv.org/abs/2301.08096} {\path{arXiv:2301.08096}}, \href {https://doi.org/10.1007/JHEP06(2023)060} {\path{doi:10.1007/JHEP06(2023)060}}.
+
+\bibitem{Choudhury:2023eje}
+Arghya Choudhury, Arpita Mondal, Subhadeep Mondal, and Subhadeep Sarkar.
+\newblock {Improving sensitivity of trilinear RPV SUSY searches using machine learning at the LHC}.
+\newblock 8 2023.
+\newblock \href {https://arxiv.org/abs/2308.02697} {\path{arXiv:2308.02697}}.
+
+\bibitem{NNPDF:2017mvq}
+Richard~D. Ball, Valerio Bertone, Stefano Carrazza, Luigi~Del Debbio, Stefano Forte, Patrick Groth-Merrild, Alberto Guffanti, Nathan~P. Hartland, Zahari Kassabov, Jos{\'{e}}~I. Latorre, Emanuele~R. Nocera, Juan Rojo, Luca Rottoli, Emma Slade, and Maria Ubiali.
+\newblock {Parton distributions from high-precision collider data}.
+\newblock {\em Eur. Phys. J. C}, 77(10):663, 2017.
+\newblock \href {https://arxiv.org/abs/1706.00428} {\path{arXiv:1706.00428}}, \href {https://doi.org/10.1140/epjc/s10052-017-5199-5} {\path{doi:10.1140/epjc/s10052-017-5199-5}}.
+
+\bibitem{Artoisenet:2012st}
+Pierre Artoisenet, Rikkert Frederix, Olivier Mattelaer, and Robbert Rietkerk.
+\newblock {Automatic spin-entangled decays of heavy resonances in Monte Carlo simulations}.
+\newblock {\em JHEP}, 03:015, 2013.
+\newblock \href {https://arxiv.org/abs/1212.3460} {\path{arXiv:1212.3460}}, \href {https://doi.org/10.1007/JHEP03(2013)015} {\path{doi:10.1007/JHEP03(2013)015}}.
+
+\bibitem{Bierlich:2022pfr}
+Christian Bierlich, Smita Chakraborty, Nishita Desai, Leif Gellersen, Ilkka Helenius, Philip Ilten, Leif Lönnblad, Stephen Mrenna, Stefan Prestel, Christian~T. Preuss, Torbjörn Sjöstrand, Peter Skands, Marius Utheim, and Rob Verheyen.
+\newblock {A comprehensive guide to the physics and usage of PYTHIA 8.3}.
+\newblock 3 2022.
+\newblock \href {https://arxiv.org/abs/2203.11601} {\path{arXiv:2203.11601}}, \href {https://doi.org/10.21468/SciPostPhysCodeb.8} {\path{doi:10.21468/SciPostPhysCodeb.8}}.
+
+\bibitem{MANGANO2002343}
+Michelangelo~L. Mangano, Mauro Moretti, and Roberto Pittau.
+\newblock Multijet matrix elements and shower evolution in hadronic collisions: Wbb+n-jets as a case study.
+\newblock {\em Nuclear Physics B}, 632(1):343--362, 2002.
+\newblock URL: \url{https://www.sciencedirect.com/science/article/pii/S0550321302002493}, \href {https://doi.org/10.1016/S0550-3213(02)00249-3} {\path{doi:10.1016/S0550-3213(02)00249-3}}.
+
+\bibitem{MLM2}
+Michelangelo~L. Mangano, Mauro Moretti, Fulvio Piccinini, and Michele Treccani.
+\newblock Matching matrix elements and shower evolution for top-pair production in hadronic collisions.
+\newblock {\em Journal of High Energy Physics}, 2007(01):013, jan 2007.
+\newblock URL: \url{https://dx.doi.org/10.1088/1126-6708/2007/01/013}, \href {https://doi.org/10.1088/1126-6708/2007/01/013} {\path{doi:10.1088/1126-6708/2007/01/013}}.
+
+\bibitem{CMS:2019csb}
+Albert~M Sirunyan et~al.
+\newblock {Extraction and validation of a new set of CMS PYTHIA8 tunes from underlying-event measurements}.
+\newblock {\em Eur. Phys. J. C}, 80(1):4, 2020.
+\newblock \href {https://arxiv.org/abs/1903.12179} {\path{arXiv:1903.12179}}, \href {https://doi.org/10.1140/epjc/s10052-019-7499-4} {\path{doi:10.1140/epjc/s10052-019-7499-4}}.
+
+\bibitem{Alwall:2014hca}
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer, H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro.
+\newblock {The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations}.
+\newblock {\em JHEP}, 07:079, 2014.
+\newblock \href {https://arxiv.org/abs/1405.0301} {\path{arXiv:1405.0301}}, \href {https://doi.org/10.1007/JHEP07(2014)079} {\path{doi:10.1007/JHEP07(2014)079}}.
+
+\bibitem{deFavereau:2013fsa}
+J.~de~Favereau, C.~Delaere, P.~Demin, A.~Giammanco, V.~Lema\^\i{}tre, A.~Mertens, and M.~Selvaggi.
+\newblock {DELPHES 3, A modular framework for fast simulation of a generic collider experiment}.
+\newblock {\em JHEP}, 02:057, 2014.
+\newblock \href {https://arxiv.org/abs/1307.6346} {\path{arXiv:1307.6346}}, \href {https://doi.org/10.1007/JHEP02(2014)057} {\path{doi:10.1007/JHEP02(2014)057}}.
+
+\bibitem{Metodiev:2017vrx}
+Eric~M. Metodiev, Benjamin Nachman, and Jesse Thaler.
+\newblock {Classification without labels: Learning from mixed samples in high energy physics}.
+\newblock {\em JHEP}, 10:174, 2017.
+\newblock \href {https://arxiv.org/abs/1708.02949} {\path{arXiv:1708.02949}}, \href {https://doi.org/10.1007/JHEP10(2017)174} {\path{doi:10.1007/JHEP10(2017)174}}.
+
+\bibitem{Thaler:2010tr}
+Jesse Thaler and Ken Van~Tilburg.
+\newblock {Identifying Boosted Objects with N-subjettiness}.
+\newblock {\em JHEP}, 03:015, 2011.
+\newblock \href {https://arxiv.org/abs/1011.2268} {\path{arXiv:1011.2268}}, \href {https://doi.org/10.1007/JHEP03(2011)015} {\path{doi:10.1007/JHEP03(2011)015}}.
+
+\bibitem{MAF}
+George Papamakarios, Theo Pavlakou, and Iain Murray.
+\newblock Masked autoregressive flow for density estimation, 2017.
+\newblock URL: \url{https://arxiv.org/abs/1705.07057}, \href {https://doi.org/10.48550/ARXIV.1705.07057} {\path{doi:10.48550/ARXIV.1705.07057}}.
+
+\bibitem{MADE}
+Mathieu Germain, Karol Gregor, Iain Murray, and Hugo Larochelle.
+\newblock Made: Masked autoencoder for distribution estimation.
+\newblock 2015.
+\newblock URL: \url{https://arxiv.org/abs/1502.03509}, \href {https://doi.org/10.48550/ARXIV.1502.03509} {\path{doi:10.48550/ARXIV.1502.03509}}.
+
+\bibitem{Bhattiprolu_2021}
+Prudhvi~N. Bhattiprolu, Stephen~P. Martin, and James~D. Wells.
+\newblock Criteria for projected discovery and exclusion sensitivities of counting experiments.
+\newblock {\em The European Physical Journal C}, 81(2), feb 2021.
+\newblock URL: \url{https://doi.org/10.1140%2Fepjc%2Fs10052-020-08819-6}, \href {https://doi.org/10.1140/epjc/s10052-020-08819-6} {\path{doi:10.1140/epjc/s10052-020-08819-6}}.
+
+\bibitem{CMS:2022vpy}
+Armen Tumasyan et~al.
+\newblock Search for higgsinos decaying to two higgs bosons and missing transverse momentum in proton-proton collisions at $ \sqrt{s} $ = 13 tev.
+\newblock {\em JHEP}, 05:014, 2022.
+\newblock \href {https://arxiv.org/abs/2201.04206} {\path{arXiv:2201.04206}}, \href {https://doi.org/10.1007/JHEP05(2022)014} {\path{doi:10.1007/JHEP05(2022)014}}.
+
+\bibitem{CMS:2017may}
+Albert~M Sirunyan et~al.
+\newblock {Search for Physics Beyond the Standard Model in Events with High-Momentum Higgs Bosons and Missing Transverse Momentum in Proton-Proton Collisions at 13 TeV}.
+\newblock {\em Phys. Rev. Lett.}, 120(24):241801, 2018.
+\newblock \href {https://arxiv.org/abs/1712.08501} {\path{arXiv:1712.08501}}, \href {https://doi.org/10.1103/PhysRevLett.120.241801} {\path{doi:10.1103/PhysRevLett.120.241801}}.
+
+\bibitem{rene_brun_2019_3895860}
+Rene~Brun et~al.
+\newblock root-project/root: v6.18/02, August 2019.
+\newblock \href {https://doi.org/10.5281/zenodo.3895860} {\path{doi:10.5281/zenodo.3895860}}.
+
+\bibitem{Borschensky:2014cia}
+Christoph Borschensky, Michael Kr\"amer, Anna Kulesza, Michelangelo Mangano, Sanjay Padhi, Tilman Plehn, and Xavier Portell.
+\newblock {Squark and gluino production cross sections in pp collisions at $\sqrt{s}$ = 13, 14, 33 and 100 TeV}.
+\newblock {\em Eur. Phys. J. C}, 74(12):3174, 2014.
+\newblock \href {https://arxiv.org/abs/1407.5066} {\path{arXiv:1407.5066}}, \href {https://doi.org/10.1140/epjc/s10052-014-3174-y} {\path{doi:10.1140/epjc/s10052-014-3174-y}}.
+
+\end{thebibliography}

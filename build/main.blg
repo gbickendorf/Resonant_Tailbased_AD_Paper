@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: unsrturl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: mainNotes.bib
+Database file #2: bibliography.bib
+Warning--entry type for "rene_brun_2019_3895860" isn't style-file defined
+--line 287 of file bibliography.bib
+Warning--empty journal in Karagiorgi:2021ngt
+Warning--empty journal in Chen:2022suv
+Warning--empty journal in Golling:2023yjq
+Warning--empty journal in sengupta2023curtains
+Warning--empty author in CMS-PAS-SUS-21-006
+Warning--empty journal in Choudhury:2023eje
+Warning--empty journal in Bierlich:2022pfr
+Warning--empty journal in MADE
+You've used 46 entries,
+            2616 wiz_defined-function locations,
+            941 strings with 15523 characters,
+and the built_in function-call counts, 17951 in all, are:
+= -- 1797
+> -- 751
+< -- 0
++ -- 239
+- -- 191
+* -- 1349
+:= -- 2413
+add.period$ -- 181
+call.type$ -- 46
+change.case$ -- 47
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 412
+empty$ -- 1804
+format.name$ -- 191
+if$ -- 4892
+int.to.chr$ -- 0
+int.to.str$ -- 46
+missing$ -- 43
+newline$ -- 276
+num.names$ -- 45
+pop$ -- 322
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1303
+stack$ -- 0
+substring$ -- 521
+swap$ -- 195
+text.length$ -- 80
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 79
+width$ -- 48
+write$ -- 617
+(There were 9 warnings)
